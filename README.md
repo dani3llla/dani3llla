@@ -17,10 +17,9 @@
 </div>
       
 <br>
-<br>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1361875191289872384/1361881432347119798/1744768193704.png?ex=68005e6c&is=67ff0cec&hm=6ded130e3bc76d68097cc5d764cd470412c670652d4d0d93e8cd40a1a6929b87&" width="300">
+  <img src="https://cdn.discordapp.com/attachments/1361875191289872384/1361884184150540298/1744768808228.png?ex=680060fc&is=67ff0f7c&hm=d4d41c01ede20fff04a4a13f06b4fa6886b538a902d0b942c76edb29cc5d75a6&" width="350">
 </div>
 
 <div align="center">
