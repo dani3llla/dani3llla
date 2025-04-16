@@ -18,7 +18,11 @@
       
 <br>
 <br>
-      
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1361875191289872384/1361881432347119798/1744768193704.png?ex=68005e6c&is=67ff0cec&hm=6ded130e3bc76d68097cc5d764cd470412c670652d4d0d93e8cd40a1a6929b87&" width="300">
+</div>
+
 <div align="center">
   <img src="https://i.ibb.co/DDfd9Nrc/erasebg-transformed.png" width="700">
 </div>
