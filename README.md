@@ -2,14 +2,14 @@
 <h1>Welcome😺</h1>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c24528"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1fc700"/>
 
 <div align="center">
   <samp>
     <b>
       ∼☆∼
       <br>
-      Hi! My name is Daniela :)
+      <h2>Hi! My name is Daniela :)</h2>
       <br>
 </div>
 <div align="center">
@@ -31,7 +31,7 @@
 <details align="center">
     <summary>
       <samp>
-        <h1>More Info</h1>
+        <h1>More Info🍋‍🟩</h1>
       </samp>
     </summary>
     <br>
@@ -62,21 +62,30 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:1999dani.alves@gmail.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:daniela.alves2007@outlook.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/daniiz.z/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daniela-alves-a83467334/)
- 
-  
-  
+<a href="mailto:1999dani.alves@gmail.com">
+  <img src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Gmail.png" style="height:25px;">
+</a>
+
+<a href="mailto:daniela.alves2007@outlook.com">
+  <img src="https://icones.pro/wp-content/uploads/2022/04/icone-outlook-rouge-1.png" style="height:29px;">
+</a>
+
+<a href="https://www.instagram.com/daniiz.z/?next=%2F">
+  <img src="https://img.icons8.com/m_outlined/512/FA5252/instagram-new--v2.png" style="height:29px;">
+</a>
+
+<a href="https://www.linkedin.com/in/daniela-alves-a83467334/">
+  <img src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-rouge.png" style="height:29px;">
+</a>
+
+
 </div>
 
 ##
-
 </details>
 
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c24528&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1fc700&height=100&section=footer"/>
 
