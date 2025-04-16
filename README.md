@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1361875191289872384/1361884184150540298/1744768808228.png?ex=680060fc&is=67ff0f7c&hm=d4d41c01ede20fff04a4a13f06b4fa6886b538a902d0b942c76edb29cc5d75a6&" width="350">
+  <img src="https://cdn.discordapp.com/attachments/1361875191289872384/1361884184150540298/1744768808228.png?ex=680060fc&is=67ff0f7c&hm=d4d41c01ede20fff04a4a13f06b4fa6886b538a902d0b942c76edb29cc5d75a6&" width="250">
 </div>
 
 <div align="center">
