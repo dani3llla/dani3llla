@@ -40,13 +40,21 @@
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dani3llla&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dani3llla&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dani3llla&theme=nord_dark&utcOffset=8) |
-| :-: | :-: | :-: |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani3llla&theme=chartreuse-dark&show_icons=true)
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dani3llla&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dani3llla&theme=nord)](https://git.io/streak-stats) |
-| :-: | :-: |
-  
+
 </div>
+
+<div align="center">
+<table style="text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani3llla&layout=compact&title_color=39FF14&bg_color=010101&card_width=468" />
+
+
+
+
+    
+  </tr>
+</table>
 
 <div align="center" style="display: inline_block"><br>
  
