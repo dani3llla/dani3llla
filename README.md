@@ -1,102 +1,32 @@
-<div align="center">
-<h1>Welcome😺</h1>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1fc700"/>
-
-<div align="center">
-  <samp>
-    <b>
-      ∼☆∼
-      <br>
-      <h2>Hi! My name is Daniela :)</h2>
-      <br>
-</div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdani3llla&s=21&c=1fc700&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-      
-<br>
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1361875191289872384/1361884184150540298/1744768808228.png?ex=680060fc&is=67ff0f7c&hm=d4d41c01ede20fff04a4a13f06b4fa6886b538a902d0b942c76edb29cc5d75a6&" width="250">
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/lOOmzYD.gif" alt="abigail jones" style="width: 80%;" /><br>
+  <h1>Hi, I'm Daniela Alves 👋</h1>
 </div>
 
-<div align="center">
-  <img src="https://i.ibb.co/DDfd9Nrc/erasebg-transformed.png" width="700">
-</div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1fc700&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-<details align="center">
-    <summary>
-      <samp>
-        <h1>More Info🍋‍🟩</h1>
-      </samp>
-    </summary>
-    <br>
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani3llla&theme=chartreuse-dark&show_icons=true)
-
-
-</div>
-
-<div align="center">
-<table style="text-align:center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani3llla&layout=compact&title_color=39FF14&bg_color=010101&card_width=468" />
-
-
-
-
-    
-  </tr>
-</table>
-
-<div align="center" style="display: inline_block"><br>
- 
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
- 
-  
-</div>
-
-<br>
-
-##
-
-<br>
-
-<div align="center">
-
-<a href="mailto:1999dani.alves@gmail.com">
-  <img src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Gmail.png" style="height:25px;">
-</a>
-
-<a href="mailto:daniela.alves2007@outlook.com">
-  <img src="https://icones.pro/wp-content/uploads/2022/04/icone-outlook-rouge-1.png" style="height:29px;">
-</a>
-
-<a href="https://www.instagram.com/daniiz.z/?next=%2F">
-  <img src="https://img.icons8.com/m_outlined/512/FA5252/instagram-new--v2.png" style="height:29px;">
-</a>
-
-<a href="https://www.linkedin.com/in/daniela-alves-a83467334/">
-  <img src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-rouge.png" style="height:29px;">
-</a>
-
-
-</div>
-
-##
+<details>
+  <summary> <b> 🤔 About me </b> <i>(Click here)</i> </summary>
+  <br>
+  <ul>
+    <li>🌍 I’m Daniela Alves, 18 years old, from Brazil. Focused on becoming a full-stack web developer.</li>
+    <li>💻I study Web Development for iOS and love crafting modern, responsive interfaces with HTML, CSS, and JavaScript.</li>
+    <li>🎓 I'm also a student of Systems Analysis and Development at FAM — with skills in C and C++.</li>
+    <li>🧠 Passionate about AI — currently taking IBM’s “AI Foundations” and Capstone program through SkillsBuild.</li>
+    <li>🚀 Graduated from PROA (May 2025), where I boosted both my tech and soft skills.</li>
+    <li>🎮 Fun Fact: I’ve loved games since I was a kid — they sparked my curiosity in tech and still inspire me to build creative digital experiences.</li>
+  </ul>
 </details>
 
-<br>
-<br>
+<details open="true">
+  <summary> <b> :mailbox: Contact me </b> <i>(Click here)</i> </summary>
+  <br>
+  I'm open to new opportunities, collaborations, or just a good chat about tech and ideas.<br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1fc700&height=100&section=footer"/>
+  <a href="mailto:1999dani.alves@gmail.com">
+    <img align="left" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/daniela-alves-a83467334/">
+    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</details>
