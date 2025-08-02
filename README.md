@@ -1,30 +1,23 @@
-<h1 align="center">Olá! Sou a Daniela⭐</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=1000&color=F7C512&center=true&multiline=true&width=600&lines=Hello!+I'm+Daniela!;I+write+code%2C+cuddle+cats%2C+and+cause+creative+chaos%F0%9F%AA%84)](https://git.io/typing-svg)
+<br>
+<pre>
+    🍰 18 years old
+    📖 System Analysis and Development Student
+    💻 Web & Creative Coding • UX / UI • Dev + Design
+    🎮 Music • Games • Code • Art
+</pre>
 
-<p align="center">
-  <img src="daniela_windows.png" alt="Daniela Alves" style="width: 100%;" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=2000&pause=1000&color=F7C512&center=true&multiline=true&repeat=false&width=600&lines=%3C+SKILLS+%2F%3E)](https://git.io/typing-svg)
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
+<br>
 
-<details>
-  <summary> <b> 🤔 Sobre mim </b> <i>(Clique aqui)</i> </summary>
-  <br>
-  <ul>
-    <li>🌍 Me chamo Daniela Alves, tenho 18 anos e sou do Brasil. Focada em me tornar uma desenvolvedora web full-stack.</li>
-    <li>💻 Estudo Desenvolvimento Web para iOS e adoro criar interfaces modernas e responsivas com HTML, CSS e JavaScript.</li>
-    <li>🎓 Também sou estudante de Análise e Desenvolvimento de Sistemas na FAM — com conhecimentos em C e C++.</li>
-    <li>🚀 Me formei no PROA (maio de 2025), onde desenvolvi tanto habilidades técnicas quanto comportamentais.</li>
-    <li>🎮 Curiosidade: Amo Jogos, Gatos e toco guitarra🎸</li>
-  </ul>
-</details>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=2000&pause=1000&color=F7C512&center=true&multiline=true&repeat=false&width=600&lines=SOCIALS)](https://git.io/typing-svg)
 
-<details open="true">
-  <summary> <b> :mailbox: Contato </b> <i>(Clique aqui)</i> </summary>
-  <br>
-  Estou aberta a novas oportunidades, colaborações ou apenas um bom papo sobre tecnologia e ideias.<br><br>
-
-<a href="mailto:1999dani.alves@gmail.com">
-    <img align="left" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/daniela-alves-a83467334/">
-    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1999dani.alves@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-alves-a83467334)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/danmeows)
+ 
+</div>
