@@ -12,7 +12,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=2000&pause=1000&color=F7C512&center=true&multiline=true&repeat=false&width=600&lines=%3C+SKILLS+%2F%3E)](https://git.io/typing-svg)
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
-<br>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=2000&pause=1000&color=F7C512&center=true&multiline=true&repeat=false&width=600&lines=SOCIALS)](https://git.io/typing-svg)
 
