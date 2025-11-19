@@ -1,14 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Roda automaticamente a cada 24h
   schedule:
     - cron: "0 */24 * * *"
-
-  # Permite rodar manualmente
   workflow_dispatch:
-
-  # Roda ao fazer push na branch main ou master
   push:
     branches:
       - main
@@ -19,11 +14,12 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      # Gera os arquivos SVG da snake
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dani3llla
@@ -31,8 +27,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Faz push dos arquivos para a branch "output"
-      - name: Push SVG to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
