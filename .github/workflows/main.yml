@@ -24,14 +24,8 @@ jobs:
         with:
           github_user_name: dani3llla
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#fc5603
-            dist/github-contribution-grid-snake-dark.svg?color_snake#fc5603
-
-      - name: List generated files (debug)
-        run: ls -la dist || true
-
-      - name: Show snippet of generated SVG (debug)
-        run: head -n 60 dist/github-contribution-grid-snake.svg || true
+            dist/github-contribution-grid-snake.svg?color_snake=#00ff6a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff6a
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
