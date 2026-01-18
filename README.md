@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=2000&pause=1000&color=F7C512&center=true&multiline=true&repeat=false&width=600&lines=%3C+SKILLS+%2F%3E)](https://git.io/typing-svg)
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,java,python,html,css,git,github)](https://skillicons.dev)
 
 
 
